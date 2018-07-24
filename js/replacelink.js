@@ -43,7 +43,7 @@
 
 	for (var i = 0; i < linktag.length; i++) {	
 		checkpengecualian = true;
-		checkhanyauntuk = true;
+		checkhanyauntuk = false;
 		no = 0;
 		if (setting.pengecualianstatus) {		
 			checkpengecualian = false;
